@@ -7,6 +7,7 @@
   </a>
 </p>
 
+
 ---
 
 ## 🔭 Currently Working On
@@ -86,18 +87,7 @@ I enjoy breaking down complex analog circuits into simple and intuitive concepts
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishz1432 & layout=compact" />
-</p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishz1432 & show_icons=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishz1432" />
-</p>
 
 ---
 
