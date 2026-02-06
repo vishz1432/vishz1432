@@ -19,7 +19,11 @@
 - Analog IC Design fundamentals  
 - MOSFET device characterization  
 - Amplifier and Op-Amp design  
-- Circuit-level analysis using ngspice  
+- Circuit-level analysis using ngspice
+- Digital Design (RTL Design)
+- PD (Physical design) workflows
+- Synthesis and Backend Flows
+- IOT & Embedded Design 
 - Open-source VLSI design workflows (SKY130)
 
 ---
@@ -32,11 +36,11 @@
 
 ## 🤝 Looking for Help With
 - **Advanced Analog Circuit Design & Layout (SKY130)**  
-
+- **Work on Project Advance Analog or Digital Design**
 ---
 
 ## 💬 Ask Me About
-Analog IC fundamentals, MOS characterization, circuit simulations, amplifier design, and layout basics
+Analog IC fundamentals, Digital design, MOS characterization, Digital electronics & Basic Electronics  circuit simulations, amplifier design, IOT & Embedded , and layout basics.
 
 ---
 
@@ -47,6 +51,7 @@ Analog IC fundamentals, MOS characterization, circuit simulations, amplifier des
 
 ## 📫 How to Reach Me
 📧 **royvishal4348@gmail.com**
+- +91 7004707458
 
 ---
 
@@ -83,11 +88,11 @@ I enjoy breaking down complex analog circuits into simple and intuitive concepts
 
 ## 📊 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishz1432&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishz1432 & layout=compact" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishz1432&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishz1432 & show_icons=true" />
 </p>
 
 <p>
@@ -98,3 +103,4 @@ I enjoy breaking down complex analog circuits into simple and intuitive concepts
 
 ## 📜 License
 This project is licensed under the **Apache License 2.0**.
+
