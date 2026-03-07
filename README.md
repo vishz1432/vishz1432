@@ -11,8 +11,8 @@
 ---
 
 ## 🔭 Currently Working On
-- **Analog IC Characterization using SKY130 PDK**  
-  🔗 https://github.com/vishz1432/IC-Characterization
+- **Bandgap Refrence circuit (BGR) using SKY130 PDK**  
+  https://github.com/vishz1432/BGR-_Bandgap-Reference-Circuit
 
 ---
 
